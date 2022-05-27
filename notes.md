@@ -21,3 +21,9 @@
     - arrays
     - classes
     - objectss
+
+### Notes about Arrays:
+- TS can do type inference when extracting values from Array
+- TS can prevent us from adding incompatible values to Array
+- We can get help with 'map', 'forEach', 'reduce' functions
+- Flexible - arrays can still contain multiple different types
