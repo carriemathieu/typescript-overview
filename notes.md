@@ -30,3 +30,8 @@
 
 ### Interfaces
 - Creates a new type, describing the property names and value types of an object
+
+### Public/Private/Protected
+- public: can be called anywhere, any time
+- private: can only be called by other methods in this class
+- protected: can only be called by other methods in this class, or other methods in child classes
